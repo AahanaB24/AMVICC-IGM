@@ -131,12 +131,15 @@ Stable Diffusion
 Please consider citing our paper if you find this project helpful for your research:
 
 ```bibtex
-@misc{AahanaB24,
-      title={AMVICC: A Novel Benchmark for Cross-Modal Failure Mode Profiling for VLMs and IGMs}, 
-      author= {Aahana Basappa, Pranay Goel, Anusri Karra, Anish Karra, Asa Gilmore}
-      year={2025},
-      archivePrefix={arXiv},
+@inproceedings{
+basappa2025amvicc,
+title={{AMVICC}: A Novel Benchmark for Cross-Modal Failure Mode Profiling for {VLM}s and {IGM}s},
+author={Aahana Basappa and Pranay Goel and Anusri Karra and Anish Karra and Asa Gilmore and Kevin Zhu},
+booktitle={1st Workshop on VLM4RWD @ NeurIPS 2025},
+year={2025},
+url={https://openreview.net/forum?id=vDkdG55rDL}
 }
+
 ```
 
 ## Acknowledgement <a name="acknowledgement"></a>
